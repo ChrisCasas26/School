@@ -15,7 +15,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🎓 MI SEMESTRE")
+st.title("MI SEMESTRE")
 
 # --- CATALOGO DE MATERIAS ---
 LISTADEMATERIAS={
