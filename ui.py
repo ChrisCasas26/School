@@ -4,7 +4,7 @@ from alumos import Alumno
 from Personas import Persona
 
 # --- CONFIGURACIÓN DE LA PÁGINA WEB ---
-st.set_page_config(page_title="Control Escolar Pro v1.0", page_icon="🎓", layout="centered")
+st.set_page_config(page_title="Control Escolar Pro v1.0", layout="centered")
 
 # Estilos personalizados para emular el diseño (cuadros celestes en modo claro)
 st.markdown("""
